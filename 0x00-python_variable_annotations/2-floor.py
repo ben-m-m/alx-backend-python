@@ -9,7 +9,6 @@ args: float (n)
 
 def floor(n: float) -> int:
     """
-    returns the
-    floor of a float
+    returns:floor of a float
     """
     return math.floor(n)
