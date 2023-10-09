@@ -2,7 +2,9 @@
 
 import math
 """Write a type-annotated function floor which takes a float n as
-argument and returns the floor of the float."""
+argument and returns the floor of the float.
+args: float (n)
+"""
 
 
 def floor(n: float) -> int:
